@@ -14,14 +14,14 @@ Mi objetivo es ser un experto en **tecnologías web** y contribuir a proyectos q
 
 ## ¿Qué tecnologías uso?
 tanto en la tecnicatura de "Teclab" como en el bootcamp "Henry" me han permitido adquirir el conocimiento principalemte en estas tecnologias:
-*javascript
-*react.js
-*node.js
-*Express.js
-*postgreSQL
-*git
-*HTML
-*CSS
+* javascript
+* react.js
+* node.js
+* Express.js
+* postgreSQL
+* git
+* HTML
+* CSS
 
 ---
 ## No dudes en contactarme!
