@@ -27,4 +27,4 @@ tanto en la tecnicatura de "Teclab" como en el bootcamp "Henry" me han permitido
 ## No dudes en contactarme!
 Juntos podemos hacer que cambie el juego de las empresas!!
 
-[LinkedIn](www.linkedin.com/in/pablo-rosa-045b0420) | [GitHub](https://github.com/PRosaTer)
+[LinkedIn](www.linkedin.com/in/pablo-rosa-045b04207) | [GitHub](https://github.com/PRosaTer)
