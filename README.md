@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm pablo</h1>
 <h3 align="center">A passionate frontend developer from Cordoba,Argentina</h3>
 
-- 🔭 I’m currently working on **a final proyect in the henry**
+- 🔭 I’m currently working on **on the final project of my degree at Henry**
 
 - 🌱 I’m currently learning **courses, bootcamps**
 
