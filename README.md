@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm pablo</h1>
 <h3 align="center">A passionate frontend developer from Cordoba,Argentina</h3>
 
-- 🔭 I’m currently working on **on the final project of my degree at Henry**
 
+- 🔭 I’m currently **looking for a job as a programmer**
+  
 - 🌱 I’m currently learning **courses, bootcamps**
-
+  
 - 💬 Ask me about **any of the technologies that I learned throughout my studies**
-
-- 📫 How to reach me **pabloterosa@gmail.com**
+   
+- 📫 How to reach me **pabloterosa@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
